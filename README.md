@@ -4,7 +4,7 @@
 
 ### Construcción, normalización, selección y extracción de características sobre imágenes de anaquel
 
-**Tecnológico de Monterrey** · Maestría en Inteligencia Artificial Aplicada
+**Tecnológico de Monterrey** · Maestría en Inteligencia Artificial Aplicada<br>
 **TC5035.10 — Proyecto Integrador (Grupo 10)**
 
 **Equipo 48** · **Modalidad:** En equipo · **Fecha:** Octubre 2026
@@ -15,7 +15,7 @@
 | Germán Eduardo Rodríguez Vázquez | A01796325 |
 | Jesús Soto Medrano | A01794746 |
 
-**Profesora:** Dra. Grettel Barceló Alonso · **Asesor:** Dr. Raúl Valente Ramírez
+**Profesora:** Dra. Grettel Barceló Alonso · **Asesor:** Dr. Raúl Valente Ramírez<br>
 **Sponsor:** Dr. Juan Arturo Nolazco Flores · **Organización:** Bnext
 
 </div>
