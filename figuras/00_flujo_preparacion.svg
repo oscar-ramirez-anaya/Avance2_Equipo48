@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1014 202" width="1014" height="202" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" style="background:#ffffff">
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b3b8c"/></marker></defs>
+<rect x="14" y="14" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="99.0" y="42.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">422 recortes</text>
+<text x="99.0" y="57.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">35 SKU</text>
+<rect x="218" y="14" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="303.0" y="42.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Extracción base</text>
+<text x="303.0" y="57.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">812 variables</text>
+<rect x="422" y="14" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="507.0" y="42.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Construcción</text>
+<text x="507.0" y="57.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">de dominio</text>
+<rect x="626" y="14" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="711.0" y="42.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Discretización</text>
+<text x="711.0" y="57.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">y codificación</text>
+<rect x="830" y="14" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="915.0" y="42.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Partición por</text>
+<text x="915.0" y="57.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">bloques temporales</text>
+<rect x="14" y="124" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="99.0" y="152.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Box-Cox /</text>
+<text x="99.0" y="167.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Yeo-Johnson</text>
+<rect x="218" y="124" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="303.0" y="160.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">StandardScaler</text>
+<rect x="422" y="124" width="170" height="64" rx="7" fill="#e8eef9" stroke="#0b3b8c"/>
+<text x="507.0" y="152.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">Varianza y</text>
+<text x="507.0" y="167.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#0b3b8c">correlación: 516</text>
+<rect x="626" y="124" width="170" height="64" rx="7" fill="#0b3b8c" stroke="#0b3b8c"/>
+<text x="711.0" y="152.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#ffffff">ANOVA</text>
+<text x="711.0" y="167.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#ffffff">k = 50</text>
+<rect x="830" y="124" width="170" height="64" rx="7" fill="#0b3b8c" stroke="#0b3b8c"/>
+<text x="915.0" y="152.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#ffffff">Regresión logística</text>
+<text x="915.0" y="167.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#ffffff">F1 prueba 0.976</text>
+<line x1="184" y1="46.0" x2="216" y2="46.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="388" y1="46.0" x2="420" y2="46.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="592" y1="46.0" x2="624" y2="46.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="796" y1="46.0" x2="828" y2="46.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<path d="M915.0,78 L915.0,101.0 L99.0,101.0 L99.0,122" fill="none" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="184" y1="156.0" x2="216" y2="156.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="388" y1="156.0" x2="420" y2="156.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="592" y1="156.0" x2="624" y2="156.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+<line x1="796" y1="156.0" x2="828" y2="156.0" stroke="#0b3b8c" stroke-width="1.6" marker-end="url(#fl)"/>
+</svg>

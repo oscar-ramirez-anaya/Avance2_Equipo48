@@ -43,20 +43,9 @@ se validan con un modelo base (regresión logística) en validación cruzada por
 | F1 macro, validación cruzada / prueba | **0.955 ± 0.016 / 0.976** |
 | Tiempo de entrenamiento | **5.5 veces menor** que con todas las variables |
 
-```mermaid
-flowchart LR
-    A[422 recortes<br/>35 SKU] --> B[Extracción base<br/>812 variables]
-    B --> C[Construcción<br/>de dominio]
-    C --> D[Discretización<br/>y codificación]
-    D --> E[Partición por<br/>bloques temporales]
-    E --> F[Box-Cox /<br/>Yeo-Johnson]
-    F --> G[StandardScaler]
-    G --> H[Varianza y<br/>correlación: 516]
-    H --> I[ANOVA k=50]
-    I --> J[Regresión logística<br/>F1 0.976]
-    H -.-> K[PCA 122 comp.]
-    H -.-> L[Análisis factorial<br/>6 factores]
-```
+![Flujo](figuras/00_flujo_preparacion.svg)
+
+*Flujo de preparación de los datos. PCA (122 componentes) y el análisis factorial (6 factores) se evaluaron como alternativas a la selección por ANOVA.*
 
 ## Cobertura de la rúbrica
 
