@@ -70,3 +70,6 @@ Thumbs.db
 
 # Recursos gráficos institucionales de los entregables (no son datos de Bnext)
 !assets/*.png
+
+# Gráficas agregadas del entregable (sin fotografías ni recortes)
+!figuras/*.png
